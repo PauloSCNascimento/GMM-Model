@@ -4,7 +4,7 @@ A estrutura “GMM-Model”, apresenta um modelo o Modelo de Misturas Gaussianas
 # Documentação
 __Parte 01: Descrição teórica__ 
 Um vídeo com a descrição teórica do modelo pode ser encontrado no link:
-https://www.youtube.com/watch?v=kwkTTWZEbUI
+https://www.youtube.com/watch?v=jLHyqtVxRKc
 
 **Parte 02: Descrição dos algoritmos**
 * Todos os códigos relevantes ao modelo estão contidos no seguinte diretório: ~\Codigos.
