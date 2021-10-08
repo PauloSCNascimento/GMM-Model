@@ -16,7 +16,7 @@ import pandas as pd
 ############################################################
 # Classe GMM    
 class GMM:
-     # Classe GMM para dados 1 dimensão    
+     # Classe GMM para dados 2 dimensão    
 
     ##############################################
     ##############################################
